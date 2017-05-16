@@ -1,0 +1,2 @@
+# projektypython
+cwiczenia python
